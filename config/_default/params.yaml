@@ -7,9 +7,10 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: dark
   font: native
   font_size: L
+  day_night: true
 
 # SEO
 
@@ -45,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Junyu Yin. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
