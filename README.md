@@ -1,1 +1,1 @@
-This is a github repository for xxx lab site
+This is a github repository for the website of CAT Lab.
