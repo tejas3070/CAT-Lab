@@ -1,27 +1,29 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
-date: 2022-10-24
+date: 2025-10-08
 type: landing
 
 sections:
   - block: hero
     content:
-      title: |
-        Cat
+      title:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **CAT Lab** is dedicated to advancing the **Compiler, Architecture, and Toolkit (CAT)** foundations that power the next generation of intelligent systems.
+
+        Our research spans the full computing stack — from hardware architecture to compiler design, from performance profiling tools to AI-driven optimization frameworks. 
+
+        We aim to build an efficient and user-friendly infrastructure that helps enhance computational performance across diverse computing platforms.
+
   
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''

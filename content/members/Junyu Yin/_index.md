@@ -18,12 +18,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meow!
+bio: hello, world!
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Architecture
+  - High Performance Computing
 
 education:
   courses:
@@ -75,10 +75,7 @@ user_groups:
   - PhD Students
 ---
 
-say sth. here
-Currently, I am embarking on my journey as a Ph.D. student in the [Computer Science Department](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/), advised by Professor [Keren Zhou](https://www.jokeren.tech/).
-
 Previously, I received my master degree in Artificial Intelligence from [School of Computer Science and Engineering](https://www.ntu.edu.sg/scse) at [Nanyang Technological University](https://www.ntu.edu.sg/) in Jan 2023. Before that, I received my B.Sc. degree from [Computer Science and Technology Department](https://cs.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/) in June 2021.
 
-If you have any questions or other information you'd like to share, I would be very happy to receive your email:
-**noobyjy@gmail.com**.
+If you have any questions or other information you would like to share, please contact me through the email.
+
