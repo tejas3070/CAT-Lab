@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2024 Fall - 
+role: 2023 Fall - 
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artificial Intelligence and High Performance Computing
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High Performance Computing
+  - Data Analytics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: George Mason University
+      year: 2025-Present
+    - course: MSc in Computer Science
+      institution: George Mason University
+      year: 2025
+    - course: B.E. in Computer Science and Engineering
+      institution: College of Engineering Guindy, Anna University, India
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,21 +48,21 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:tejasramesh99@gmail.com'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/tejas-ramesh-976203190
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=OGNnUHcAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/tejas3070
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/tejas_ramesh_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -73,4 +73,4 @@ user_groups:
   - PhD Students
 ---
 
-say sth. here
+I am a <strong>PhD student pursuing Computer Science</strong> at <strong>George Mason University</strong>. My current research focuses on <strong>building Large Language Model agents for tackling code generation problems in the High-Performance Computing space</strong>, and I previously worked on developing <strong>effective tools for simplifying AI education</strong>.
