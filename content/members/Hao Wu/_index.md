@@ -49,9 +49,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hwu27@gmu.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/Mark14Wu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=3Q8t1AIAAAAJ
@@ -60,9 +57,9 @@ social:
     link: https://github.com/mark14wu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/hao_wu_cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/hao_wu_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'mark14@qq.com'
